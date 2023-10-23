@@ -2,7 +2,7 @@
 - 👀 I’m interested in My Works
 - 🌱 I’m currently learning about Codes in my job
 - 💞️ I’m looking to collaborate on my code
-- 📫 How to reach me by mail and
+- 📫 How to reach me by mail 
 
 <!---
 PejmanOmrani/PejmanOmrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
